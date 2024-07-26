@@ -2,17 +2,17 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap" rel="stylesheet');
 
-/*@layer base {
+@layer base {
     body {
-        @apply font -[Raleway];
+        @apply font-[Nunito];
     } 
     li {
         @apply px-4;
         @apply cursor-pointer
     }
-}*/
+}
 
 .content-div {
     background:no-repeat;
@@ -30,28 +30,28 @@
     )!important;
 }
 .banner {
-    background: url(../src/assets/banner.jpg) no-repeat right center;
+    background: url(../src/assets/marcella-marcella-BXR9wvl29J8-unsplash.jpg) no-repeat right center;
     background-size:cover;
 }
 
 .about {
-    background: url(../src/assets/banner.jpg) no-repeat right center;
+    background: url(../src/assets/greg-rosenke-kr67X9ralR0-unsplash.jpg) no-repeat right center;
     background-size:cover;
 }
 
 .skill {
-    background: url(../src/assets/banner.jpg) no-repeat right center;
+    background: url(../src/assets/christopher-gower-m_HRfLhgABo-unsplash.jpg) no-repeat right center;
     background-size:cover;
 }
 
 
 .work {
-    background: url(../src/assets/banner.jpg) no-repeat right center;
+    background: url(../src/assets/marcella-marcella-BXR9wvl29J8-unsplash.jpg) no-repeat right center;
     background-size:cover;
 }
 
 
 .contact {
-    background: url(../src/assets/banner.jpg) no-repeat right center;
+    background: url(../src/assets/marcella-marcella-BXR9wvl29J8-unsplash.jpg) no-repeat right center;
     background-size:cover;
 }

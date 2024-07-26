@@ -68,36 +68,34 @@ const Navbar = () => {
       {/*Social icons*/}
       <div className="flex fixed flex-col top-[35%] left-0">
         <ul>
-          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover: ml-[-10px] duration-300  bg-green-500 rounded-full rounded-1-none w-full text-gray-200 mt-2">
-            <a
-              className="flex justify-between items -center w-full text-gray-500"
+          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300  bg-green-500 rounded-full rounded-1-none">
+            <a className="flex justify-between items-center w-full text-gray-800"
               href="/"
             >
               Instagram <FaInstagram size={30} />
             </a>
           </li>
 
-          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover: ml-[-10px] duration-300  bg-green-500 rounded-full rounded-1-none w-full text-gray-200 mt-2">
-            <a
-              className="flex justify-between items -center w-full text-gray-500"
+          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300  bg-green-500 rounded-full rounded-1-none">
+            <a className="flex justify-between items-center w-full text-gray-800"
               href="/"
             >
               Twitter <FaTwitter size={30} />
             </a>
           </li>
 
-          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover: ml-[-10px] duration-300  bg-green-500 rounded-full rounded-1-none w-full text-gray-200 mt-2">
+          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300  bg-green-500 rounded-full rounded-1-none">
             <a
-              className="flex justify-between items -center w-full text-gray-500"
+              className="flex justify-between items-center w-full text-gray-800"
               href="/"
             >
               Github <FaGithub size={30} />
             </a>
           </li>
 
-          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover: ml-[-10px] duration-300  bg-green-500 rounded-full rounded-1-none text-gray-500 w-full text-gray-200 mt-2">
+          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300  bg-green-500 rounded-full rounded-1-none">
             <a
-              className="flex justify-between items -center w-full text-gray-500"
+              className="flex justify-between items-center w-full text-gray-800"
               href="/"
             >
               Email <HiOutlineMail size={30} />

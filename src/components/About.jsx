@@ -20,9 +20,9 @@ const About = () => {
                     </p>
             </div>
                 <div>
-                    <p> Esther Asomaning is Business Scientist, who is passionate about technology,software development and making stem inclusive. Her homepage 
-                    communicates her works and a bit of her personality through-eye catching
-                     and crative design. what would you do if you have a technology and software expert at your fingertips?</p>
+                    <p> Esther Asomaning is Business Scientist, who is passionate about technology,software development and making stem inclusive. My homepage 
+                    communicates mu works and a bit of my personality through-eye catching
+                     and creative design. what would you do if you have a technology and software expert at your fingertips?</p>
                 </div>
         </div>
     </div>
