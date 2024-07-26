@@ -1,7 +1,11 @@
 import React from 'react'
+import { Element } from "react-scroll";
+
 
 const About = () => {
   return (
+    <React.Fragment>
+      <Element id="about" name="about">
     <div name='about' className='w-full h-screen about'>
     <div className='flex flex-col justify-center items-center w-full h-full'>
         <div className='max-w-[1000px] w-full grid grid-cols-2 gap-8'>
@@ -24,6 +28,8 @@ const About = () => {
     </div>
       
     </div>
+    </Element>
+    </React.Fragment>
   )
 }
 
